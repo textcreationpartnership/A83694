@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the proceedings of the honourable committee of the House of Commons, at Merchant-Taylors Hall for raising the people of the land as one man. Vnder the command of Sir William Waller. August 3. 1643. Ordered by the committee to be printed.</title>
+            <title>Proceedings. 1643-08-03</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83694</idno>
+            <idno type="STC">Wing E2570</idno>
+            <idno type="STC">ESTC R8329</idno>
+            <idno type="EEBO-CITATION">99897526</idno>
+            <idno type="PROQUEST">99897526</idno>
+            <idno type="VID">132665-01</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83694)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 132665-01)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2498:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the proceedings of the honourable committee of the House of Commons, at Merchant-Taylors Hall for raising the people of the land as one man. Vnder the command of Sir William Waller. August 3. 1643. Ordered by the committee to be printed.</title>
+                  <title>Proceedings. 1643-08-03</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by T. Pain and M. Simons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug: 3rd".</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Waller, William, --  Sir, 1597?-1668 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources --  Early works to 1800.</term>
+               <term>Great Britain --  Militia --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:132665-01:1"/>
+            <pb facs="tcp:132665-01:1" rendition="simple:additions"/>
+            <p>A DECLARATION OF THE PROCEEDINGS OF THE <hi>HONO<g ref="char:V">Ʋ</g>RABLE COMMITTEE</hi> Of the Houſe of COMMONS, AT <hi>Merchant-Taylors Hall,</hi> For Raiſing the People of the Land as one MAN.</p>
+            <p>Vnder the command of Sir <hi>William Waller.</hi> Auguſt 3. 1643.</p>
+            <p>
+               <hi>Ordered by the Committee to be printed.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. Pain</hi> and <hi>M. Simons.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:132665-01:2"/>
+            <pb n="3" facs="tcp:132665-01:2"/>
+            <head>A DECLARATION OF the Honorable Committee of the Houſe of COMMONS at <hi>Merchant-Taylors Hall,</hi>
+            </head>
+            <opener>
+               <dateline>
+                  <date> Auguſt 3d. 1643.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Houſands of judicious well minded men being throughly ſenſible of the miſerable condition of the Common-wealth, ſee<g ref="char:EOLhyphen"/>ing their moſt faithfull Friends Com<g ref="char:EOLhyphen"/>manders, and Souldiers deſtroyed in ſmall parties againſt ſtrong and treache<g ref="char:EOLhyphen"/>rous Enemies; and finding by long and ſad experience, that all endeavours of Parliament whe<g ref="char:EOLhyphen"/>ther by gentle or forcible meanes, availed not to prevent or ſubdue their implacable malice, but as they increaſed in numbers, ſo they continued to ſpoile and murther ho<g ref="char:EOLhyphen"/>neſt religious people in all places where they came. And being throughly ſenſible of the diſtreſſed eſtate of our bre<g ref="char:EOLhyphen"/>thren in Ireland, and the wants and neceſſities of the poore through decay of Trade, and want of Fuel, and foreſeeing that famine and deſtruction, were even ſeizing upon the
+<pb n="4" facs="tcp:132665-01:3"/>whole Nation, if not ſpeedily, and by extraordinarie meanes prevented, did propoſe unto themſelves the gene<g ref="char:EOLhyphen"/>rall raiſing of the whole people (as one Man) as the onely meanes to give a ſpeedie end to this deſtructive warre. To effect which, they preſented a Petition to the Com<g ref="char:EOLhyphen"/>mons of ENGLAND in <hi>Parliament</hi> aſſembled the 20<hi rend="sup">th</hi>. day of Iuly <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>643. wherein they manifeſted, that they rightly underſtood the condition of their Enemies, and were no whit blinded by their deluſions: and in moſt ear<g ref="char:EOLhyphen"/>neſt, and humble manner deſired, that that Honorable Houſe would be pleaſed to appoint a Committee to ma<g ref="char:EOLhyphen"/>nage that great affaire of Raiſing the whole people. The Petition was received with great expreſſions of affection; and a Committee of worthie Members of the Houſe ap<g ref="char:EOLhyphen"/>pointed for advance of that Service.</p>
+            <p>This Honorable Committee with great reſolution and confidence undertooke this burthenſome and great em<g ref="char:EOLhyphen"/>ployment, as conceiving the ſame to be the laſt refuge of the people: in purſuance whereof they proceeded with great caution, to lay a ſound Foundation and good me<g ref="char:EOLhyphen"/>thod: which being agreed upon both for the City of London, and all other Counties; they then ſu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>moned all ſorts of well-affected perſons of London, Weſtminſter, Southwark, and parts adjacent, to appeare at Marchant-Taylers Hall on Thurſday the 27<hi rend="sup">th</hi> of Iuly, there to ſub<g ref="char:EOLhyphen"/>ſcribe for Moneys, Ammunition, Armes, Horſe, &amp;c. and to liſt their perſons.</p>
+            <p>The people appeared in great numbers, the Right Ho<g ref="char:EOLhyphen"/>norable the Lord Major, and many worthie Aldermen and Gentlemen were there to countenance the Work, which went on with great alacritie and cheerfulneſſe; Amidſt
+<pb n="5" facs="tcp:132665-01:3"/>theſe proceedings, the people were very deſirous that Sir <hi>William Waller</hi> might be appointed Commander in Chief. The peoples deſire therein was preſented to the Com<g ref="char:EOLhyphen"/>mittee by Mr. Sheriffe <hi>Langham;</hi> which was immediately taken into debate, and upon mature deliberation agreed upon to be preſented to the Honorable Houſe of Com<g ref="char:EOLhyphen"/>mons for approbation, which ſucceeded according to the peoples earneſt deſire and expectation. Sir <hi>Will. Waller,</hi> upon motion of the Committee, being voted Comman<g ref="char:EOLhyphen"/>der in Chief of the Forces to be Raiſed by this Com<g ref="char:EOLhyphen"/>mittee, and was alſo made a Member of this Committee: all which was effected in few houres, and the Order of the Houſe ſent unto the people to cheare their hearts, and gra<g ref="char:EOLhyphen"/>tifie their willingneſſe to preſerve the Kingdome; The Committee in ſhort time returned to the Hall, and after them Sir <hi>William Waller,</hi> and ſate with the Committee; and after ſome diſcourſe, they all with him went out unto the people, where he entertained their loves with a brief, but moſt pertinent Speech, which they requited with loud, acclamations of joy and thankfulneſſe, ſo as they ſeemed to be mutually engaged one unto the other, with the greateſt ſolemnitie that affection could expreſſe, to the great contentment and joy of all good men; eſpecially the Commitee, who returned to their conſultations full of confidence, that nothing would be too difficult to a Com<g ref="char:EOLhyphen"/>mander, and a people ſo united.</p>
+            <p>They found by that dayes proceedings, that it would be moſt convenient that ſubſcriptions ſhould be taken, and men liſted, by choſen men, and none eſcape from be<g ref="char:EOLhyphen"/>ing demanded to ſubſcribe according to ability: Or if any
+<pb n="6" facs="tcp:132665-01:4"/>ſhould, that their anſwers might be knowne, being deter<g ref="char:EOLhyphen"/>mined to proceed in the ſame method in all Counties. There came unto them divers Citizens, manifeſting de<g ref="char:EOLhyphen"/>fires to further the work of the generall raiſing of the people, as the onely means to preſerve the Kingdome; but differed in their opinions from the judgement of the Committee, about the method intended for the advance of Men and Monies, utterly diſliking all endeavours for voluntary ſubſcriptions and liſtings, and earneſtly preſ<g ref="char:EOLhyphen"/>ſing, that without a compulſive power, by which all men ſhould be compelled to goe in perſon, or to contribute Monies, the work would be retarded, and nothing done; and deſired that my Lord Maior might be moved to call a Common-Hall for the furthering of the worke. The Committee remained firm in their judgements, that the voluntary way was firſt to be proved, as not doubting, but that the people being now ſenſible of their approach<g ref="char:EOLhyphen"/>ing miſeries, and upon the generall raiſing for a ſpeedy end of all their feares and troubles, they would not be backward, but liberally disburſe their monies, and ad<g ref="char:EOLhyphen"/>venture their perſons; which if contrary to their expecta<g ref="char:EOLhyphen"/>tions ſhould prove defective, would ſoone appeare, and did not doubt, but in ſuch a caſe to be ſupplied by a co<g ref="char:EOLhyphen"/>ercive power from the Houſe.</p>
+            <p>Nevertheleſſe they agreed that my Lord Maior ſhould be deſired to call a Common-Hall, where the promo<g ref="char:EOLhyphen"/>ting of the work of this Committee ſhould be commen<g ref="char:EOLhyphen"/>ded to the generality of the Citizens; which was done accordingly by Colonell <hi>Martin,</hi> and exceeding joy<g ref="char:EOLhyphen"/>fully approved of, to the great encouragement of the
+<pb n="7" facs="tcp:132665-01:4"/>Committee to proceed in their endeavours and inten<g ref="char:EOLhyphen"/>tions, and thereupon have iſſued forth their Warrants, and particular inſtructions to the Alderman and his De<g ref="char:EOLhyphen"/>puty of every Ward, to call unto them the Miniſters, the Common-Councell men, and other fit perſons to pro<g ref="char:EOLhyphen"/>mote the ſaid work, according to the method and inſtru<g ref="char:EOLhyphen"/>ctions ſent unto them.</p>
+            <p>The like courſe is taken in Weſtminſter, Southwarke, and the places adjacent, whereof it is moſt neceſſary, that every good man ſhould take notice, lay to heart, and endeavour to promote the ſame, as the greatneſſe and ne<g ref="char:EOLhyphen"/>ceſſity of the worke doth require; there having been no other way propoſed by them for liſting of men, or ta<g ref="char:EOLhyphen"/>king ſubſcriptions. And therefore what ever other good workes or deſignes are on foot, let none be wanting unto this, the greateſt of all, and laſt refuge of the people. Care will be taken that your Monies ſhall be faithfully and frugally disburſed, and that no bad Officer be ad<g ref="char:EOLhyphen"/>mitted, and the common Souldier carefully provided for: And experience will prove, that this is no vain bait or allurement; may the people be but as faithfull to themſelves, as theſe Gentlemen will be unto them, and as liberall to the work as they are ready to ſpend them<g ref="char:EOLhyphen"/>ſelves in behalfe of the plaineſt and pooreſt people in the Common-wealth. And then our enemies will ſoon feel the ſmart, and our friends the comfort of their endevours. Therefore let no man ſtand to ſee what others will do; let no mans evill ſuggeſtions upon faire pretences prevaile: who ever endevours to diſturb or divert this work by ne<g ref="char:EOLhyphen"/>ver ſo faire a ſhew, will be found no friend to the Com<g ref="char:EOLhyphen"/>mon-wealth:
+<pb n="8" facs="tcp:132665-01:5"/>What you do, do with all your might: the work is Gods, to deliver the captive, and ſet the oppreſſed free. Let none therefore incurre that curſe, which is due unto thoſe that doe the work of the Lord negligently; nor that bitter curſe that will ſuddenly fall upon thoſe that come not forth to help the Lord againſt the mighty.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
